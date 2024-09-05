@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey there! Welcome to my GitHub!
 
-<!--
-**gillesserrien/gillesserrien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **gamer** and a student at **KdG**, studying **Multimedia and Creative Technologies**. When I'm not grinding in an **FPS** or getting lost in the world of **MMORPGs** (yeah, I recently started playing World of Warcraft 🧙‍♂️), you'll probably find me deep in code!
 
-Here are some ideas to get you started:
+### 🎮 About Me:
+- **Gamer** at heart (FPS main 🎯)
+- Recently dived into **MMORPGs** like WoW 🐉
+- **Student** at **KdG**, learning all things multimedia and tech 📚
+- **Frontend & Backend Dev** (still figuring out what to specialize in 😅)
+  
+### ❤️ What I love:
+I enjoy making things that people actually use and that make a difference in their lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my projects, and let's build something awesome together! 🚀
+
