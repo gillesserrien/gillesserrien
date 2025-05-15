@@ -10,9 +10,8 @@
 ### ❤️ What I love:
 I enjoy making things that people actually use and that make a difference in their day to day activities.
 
-Feel free to check out my projects, and let's build something awesome together! 🚀
+Feel free to check out my projects, and let's build something awesome together.
 
 ### 👷‍♂️ Currently working on:
-- Discord bot that communicates with the Canvas LMS to post announcements and assignments in discord, soon to be released for everyone! -- DiscordJS
-- Labsips, which is an innovative payment system for the KdG fablab, relying on users to honestly pay for their drinks. With QR codes and NFC tags, users can easily select and pay for their drinks through a user-friendly web app. -- Laravel & Vue
+- Tunofy, bachelor's project.
 
