@@ -3,7 +3,7 @@
 ### 🎮 About Me:
 - Your average video-game enjoyer
 - Photographer
-- **Student** at **KdG**, learning all things multimedia and tech 📚
+- Developer @ CompactCode
 - Recently discovered a new passion for traveling, also love a good show like "The Boys".
 - **Frontend & Backend Dev** (still figuring out what to specialize in 😅) --> Currently learning Vue!
   
@@ -13,5 +13,5 @@ I enjoy making things that people actually use and that make a difference in the
 Feel free to check out my projects, and let's build something awesome together.
 
 ### 👷‍♂️ Currently working on:
-- Tunofy, bachelor's project.
+- Odoo custom implementation for a big group of companies.
 
