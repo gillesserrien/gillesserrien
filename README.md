@@ -5,7 +5,7 @@
 - Photographer
 - Developer @ CompactCode
 - Recently discovered a new passion for traveling, also love a good show like "The Boys".
-- **Frontend & Backend Dev** (still figuring out what to specialize in 😅) --> Currently learning Vue!
+- **Frontend & Backend Dev** (still figuring out what to specialize in 😅) -> Laravel/Vue/Inertia/Astro/Node.js/TypeScript/CraftCMS/Odoo
   
 ### ❤️ What I love:
 I enjoy making things that people actually use and that make a difference in their day to day activities.
